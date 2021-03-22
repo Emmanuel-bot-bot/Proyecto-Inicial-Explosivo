@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(177, 0, 0);
+    width: 100%;
+    padding: 50px;
+
+}
+.title{
+    color: white;
+
+}
+.no_title{
+    color: tomato;
+}
